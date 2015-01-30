@@ -23,7 +23,7 @@ if($q->param("file")) {
     my $file_handle = $q->upload("file");
     open (LOCAL, ">$file_path") or print("Could not create file.");
     while(<$file_handle>) {
-    print (LOCAL $_);
+        print (LOCAL $_);
     }
     close (LOCAL);
     close ($file);
