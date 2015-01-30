@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type = "text/css"  href = "static/css/bookshelf.css" ?>
+<?xml-stylesheet type = "text/xsl"  href = "static/xsl/bookshelf.xsl" ?>
+
+<!DOCTYPE bookshelf SYSTEM "http://hopper.wlu.ca/~blac2410/bookshelf.dtd">
+
+
+<bookshelf>
+    <book>
+        <author>Steven Erikson</author>
+        <title>Gardens of the Moon</title>
+        <publisher>Bantam</publisher>
+        <publishdate>1999</publishdate>
+        <description>The sequence details the various struggles for power on a world dominated by the Malazan Empire. It is notable for the use of high magic, and unusual plot structure. Gardens of the Moon centres around the Imperial campaign to conquer the city of Darujhistan.</description>
+        <location>http://en.wikipedia.org/wiki/Gardens_of_the_Moon</location>
+    </book>
+
+    <book>
+        <author>Steven Erikson</author>
+        <title>Deadhouse Gates</title>
+        <publisher>Bantam Books</publisher>
+        <publishdate>2000</publishdate>
+        <description>
+            The convergence of a rebellion in Seven Cities, the path of hands, an attempt to assassinate the empress of the
+            Malazan empire.
+        </description>
+        <location>http://en.wikipedia.org/wiki/Deadhouse_Gates</location>
+    </book>
+</bookshelf>

@@ -1,0 +1,36 @@
+
+book {
+    display: block;
+    margin: .25% .25% .25% .25%;
+}
+
+author {
+    font-size: 20pt;
+    color: goldenrod;
+}
+
+title {
+    font-size: 14pt;
+    color: magenta;
+}
+
+publisher{
+    display: block;
+    font-size: 14pt;
+}
+
+publishdate{
+    font-size: 14pt;
+}
+
+description{
+    font-size: 14pt;
+    display: block;
+}
+
+location{
+    font-size: 14pt;
+    display: block;
+    color: blue;
+    text-underline-mode: true;
+}
