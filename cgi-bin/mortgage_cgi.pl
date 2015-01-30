@@ -16,7 +16,7 @@ $monthPay = $amount*$monthRate / ( 1 - 1/(1+$monthRate)**($years*12));
 
 # Produce html response to browser
 print header();
-print start_html("Sum Caculator Results:");
+print start_html("Mortgage Results:");
 print "<h2>Your monthly payment is:</h2>";
 printf("\$%.2f", $monthPay);
 print end_html();
