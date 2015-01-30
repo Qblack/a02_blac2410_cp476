@@ -1,0 +1,32 @@
+{
+  "contacts":[
+    {
+      "id":100532410,
+      "firstname":"Quintus",
+      "lastname":"Blackus",
+      "phonenumber":"555-555-5555",
+      "email":"blac2410@mylaurier.ca",
+      "address":{
+        "street":"Fake St",
+        "province":"Ontario",
+        "county":"Canada",
+        "zipcode":"N2J 4L5",
+        "relationship":"Me"
+      }
+    },
+    {
+      "id":891321897,
+      "firstname":"Timmy",
+      "lastname":"Chocolate Ghost",
+      "phonenumber":"555-555-5555",
+      "email":"choc1897@mylaurier.ca",
+      "address": {
+        "street": "Fake St",
+        "province": "Ontario",
+        "county": "Canada",
+        "zipcode": "N2J 4L6",
+        "relationship": "Imaginary"
+      }
+    }
+  ]
+}
