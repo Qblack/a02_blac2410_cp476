@@ -1,0 +1,64 @@
+Abstract (summary)
+
+From Wikipedia
+
+An abstract is a brief summary of a research article, thesis, review,
+conference proceeding or any in-depth analysis of a particular subject
+or discipline, and is often used to help the reader quickly ascertain
+the paper's purpose. When used, an abstract always appears at the
+beginning of a manuscript, acting as the point-of-entry for any
+given scientific paper or patent application. Abstraction and
+indexing services are available for a number of academic disciplines,
+aimed at compiling a body of literature for that particular subject.
+
+The abstract of a thesis or article is a short summary that explains
+the main argument(s), topic(s) or findings. In theses, the abstract
+normally appears before the table of contents.
+
+Scientific literature takes widespread advantage of the abstract as
+the abbreviated style of choice in order to aptly communicate complex
+research. In science, an abstract may act as a stand-alone entity in
+lieu of the paper as well. As such, an abstract is used by many
+organizations as the basis for selecting research that is proposed
+for presentation in the form of a poster, podium/lecture, or workshop
+presentation at an academic conference. Most literature database search
+engines index abstracts only as opposed to providing the entire text of
+the paper. Full-texts of scientific papers must often be purchased
+because of copyright and/or publisher fees, and therefore the
+abstract is a significant selling point for the reprint or electronic
+version of the full-text.
+
+Abstracts are afforded protections under copyright law just as any other
+form of written speech is protected. However, publishers of scientific
+articles invariably make abstracts publicly available, even when the
+article itself is protected by a toll barrier. For example, articles
+in the biomedical literature are available publicly from MEDLINE which
+is accessible through PubMed. It is a common misconception that the
+abstracts in MEDLINE provide sufficient information for medical
+practitioners, students, scholars and patients. The abstract can
+convey the main results and conclusions of a scientific article but
+the full text article must be consulted for details of the methodology,
+the full experimental results, and a critical discussion of the
+interpretations and conclusions. Consulting the abstract alone is
+inadequate for scholarship and may lead to inappropriate medical decisions.
+
+Abstract length varies by discipline and publisher requirements. Typical
+length ranges from 100 to 500 words, but very rarely more than a page. An
+abstract may or may not have the section title of "abstract" explicitly
+listed as an antecedent to content, however, they are typically sectioned
+logically as an overview of what appears in the paper (e.g. any one of
+the following: Background, Introduction, Objectives, Methods, Results, Conclusions).
+
+In journal articles, research papers, published patent applications and
+patents, an abstract is a short summary placed prior to the introduction,
+often set apart from the body of the text, sometimes with different line
+justification (as a block or pull quote) from the rest of the article.
+
+An abstract allows one to sift through copious amounts of papers for ones
+in which the researcher can have more confidence that they will be relevant
+to his research. Abstracts help a researcher decide which papers might be
+relevant to their research. Once papers are chosen based on the abstract,
+they must be read carefully to be evaluated for relevance. It is commonly
+surmised that one must not base reference citations on the abstract alone,
+but the entire merits of a paper.
+
