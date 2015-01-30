@@ -1,0 +1,64 @@
+.cp414 {
+    background-color: #305dff;
+    text-align: center;
+}
+
+.cp373 {
+    background-color: #99CCCC;
+    text-align: center;
+}
+
+.cp476 {
+    background-color: #50cc75;
+    text-align: center;
+
+}
+.cp372 {
+    background-color: #0e9979;
+    text-align: center;
+
+}
+
+.bu481 {
+    background-color: #991624;
+    text-align: center;
+}
+
+.cp469 {
+    background-color: #990190;
+    text-align: center;
+}
+
+.banner{
+    padding-top: 2%;
+    background-image: url("../img/space-wallpapers-7.jpg");
+    background-size: 100%;
+}
+
+.North{
+    padding-bottom: 2%;
+}
+.East{
+    padding-left: 3%;
+    text-align: left;
+}
+.South{
+}
+.West{
+    padding-left: 3%;
+}
+.Center{
+
+}
+
+th{
+    text-align: center;
+}
+
+.jumbotron.center {
+    text-align: center;
+}
+
+p.center {
+    text-align: center;
+}
