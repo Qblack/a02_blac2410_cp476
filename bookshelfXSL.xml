@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<?xml-stylesheet type = "text/css"  href = "static/css/bookshelf.css" ?>
+<?xml-stylesheet type = "text/xsl"  href = "static/xsl/bookshelf.xsl" ?>
 
 <!DOCTYPE bookshelf SYSTEM "http://hopper.wlu.ca/~blac2410/bookshelf.dtd">
 

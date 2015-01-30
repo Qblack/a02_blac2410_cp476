@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<?xml-stylesheet type = "text/css"  href = "static/css/bookshelf.css" ?>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type = "text/xsl"  href = "static/xsl/bookshelf.xsl" ?>
 
-<!DOCTYPE bookshelf SYSTEM "http://hopper.wlu.ca/~blac2410/bookshelf.dtd">
-
-
-<bookshelf>
+<bookshelf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bookshelf.xsd">
     <book>
         <author>Steven Erikson</author>
         <title>Gardens of the Moon</title>
@@ -13,7 +10,6 @@
         <description>The sequence details the various struggles for power on a world dominated by the Malazan Empire. It is notable for the use of high magic, and unusual plot structure. Gardens of the Moon centres around the Imperial campaign to conquer the city of Darujhistan.</description>
         <location>http://en.wikipedia.org/wiki/Gardens_of_the_Moon</location>
     </book>
-
     <book>
         <author>Steven Erikson</author>
         <title>Deadhouse Gates</title>
