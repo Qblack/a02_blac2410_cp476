@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <link href="../static/css/styles.css" rel="stylesheet">
+    <title>Mortgage Calculator</title>
+</head>
+<body>
+    <form action="../cgi-bin/mortgage_cgi.pl" method="get">
+        <div class="form-group">
+            <label for="amount">Amount:</label>
+            <input type="text" name="amount" id="amount">
+        </div>
+        <div class="form-group">
+            <label for="interest">Annual Interest Rate:</label>
+            <input type="text" name="interest" id="interest">
+        </div>
+        <div class="form-group">
+            <label for="years">Years:</label><input type="text" name="years" id="years">
+        </div>
+        <div class="form-group">
+            <input type="submit" value="calculate">
+        </div>
+    </form>
+</body>
+</html>
